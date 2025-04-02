@@ -38,4 +38,4 @@ build/
 .DS_Store
 
 ### ignore .features ##
-/src/test/resources/features/*
+/src/test/resources/features/*.feature
