@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### ignore .features ##
+/src/test/resources/features/*
